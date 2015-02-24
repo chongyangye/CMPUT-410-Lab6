@@ -1,7 +1,7 @@
 from django.shortcuts import render
 
 # Create your views here.
-from django.shoutcuts import render_to_response
+from django.shortcuts import render_to_response
 from django.template import RequestContext
 from django.shortcuts import redirect
 
